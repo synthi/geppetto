@@ -56,6 +56,13 @@ return {
     [70] = "Freeze/infinity",
     [71] = "MIDI clock (on/off)",
     [60] = "xpression (on/off)",
+    [80] = "A footswitch",
+    [82] = "B footswitch",
+    [81] = "C footswitch",
+    [93] = "TAP remote",
+    [97] = "Press/Hold switch",
+    [100] = "Expression pedal",
+    [102] = "Bypass",
   },
   program = {
     [1] = "Arp A",
