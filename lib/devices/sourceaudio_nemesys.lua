@@ -52,7 +52,7 @@ return {
     [101] = "Bypass",
     [102] = "Remote bypass",
     [103] = "Recall preset bypassed",
-    [104] = "Recall preset engaged",
+    [104] = "Recall preset engaged"
   },
   program = {
     [1] = "Arp A",
