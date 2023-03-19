@@ -62,7 +62,7 @@ return {
     [93] = "TAP remote",
     [97] = "Press/Hold switch",
     [100] = "Expression pedal",
-    [102] = "Bypass",
+    [102] = "Bypass"
   },
   program = {
     [1] = "Arp A",
